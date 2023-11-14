@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIvL4/2w67/uMkSOcif8K9et08tzRiL28tzN7931ADYutG6QGYHtX/cRamKjpe7a9ICyLFwsVmPtHvKlgBtJaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi\\OneDrive\\Desktop\\FileTask\\FileTask\\FileTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

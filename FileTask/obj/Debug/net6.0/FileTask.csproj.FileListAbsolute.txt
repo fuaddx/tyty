@@ -1,0 +1,17 @@
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\bin\Debug\net6.0\FileTask.exe
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\bin\Debug\net6.0\FileTask.deps.json
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\bin\Debug\net6.0\FileTask.runtimeconfig.json
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\bin\Debug\net6.0\FileTask.dll
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\bin\Debug\net6.0\FileTask.pdb
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.csproj.CopyComplete
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.dll
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\refint\FileTask.dll
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.pdb
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\FileTask.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Desktop\FileTask\FileTask\obj\Debug\net6.0\ref\FileTask.dll
